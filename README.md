@@ -1,5 +1,6 @@
 # pycharm-settings
- A repo for my Pycharm studio settings 
+
+A repo for my [PyCharm studio](https://www.jetbrains.com/pycharm/) settings 
 
 
 ## Shortcuts
