@@ -2,6 +2,21 @@
 
 A repo for my [PyCharm studio](https://www.jetbrains.com/pycharm/) settings 
 
+### Command-line launcher
+
+At times, you might want to launch pycharm on the current folder. To do so, configure commandline launcher.
+
+> Tools -> Create Command-line Launcher
+
+and add an `alias` in `.bashrc`
+
+**.bashrc**
+
+    # pc = pycharm
+    alias pc='/usr/local/bin/charm'
+
+From now on, you can open any project directory by `pc .` in it.
+
 
 ## Shortcuts
 
